@@ -2,9 +2,9 @@
 
 Program to simulate how long it takes for activity to converge to a balanced workload among processors
 
-### Constraints
+## Constraints
 
-What things you need to install the software and how to install them
+Problem specifications
 
 ```
 * A distributed computing system with k physical processors connected on a ring network
